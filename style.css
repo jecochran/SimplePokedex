@@ -1,0 +1,28 @@
+#header {
+    background-color: #e4000f;
+    text-align: center;
+    padding: 20px;
+    font-family: 'Pokemon Solid', sans-serif;
+    color: white;
+    border: black;
+    border-width: 20px;
+}
+
+h2 {
+    font-family: 'Pokemon Solid', sans-serif;
+    color: #ffcb05;
+    text-align: center;
+}
+
+span {
+    padding: 40px;
+}
+
+#pokeForm {
+    text-align: center;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
